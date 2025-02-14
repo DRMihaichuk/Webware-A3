@@ -1,6 +1,6 @@
 ## Pokemon Database
-[Glitch Link]()       
-[Versal Link]()
+[Glitch Link](https://glitch.com/edit/#!/a3-drmihaichuk?path=README.md%3A1%3A0)       
+[Versal Link](https://vercel.com/devin-mihaichuks-projects/a3-drmihaichuk)
 
 This application is for Pokemon Trainers to log their Pokemon into a database where they can keep track of them.
 There were quite a few challenges regarding my laptop or lack of access to a laptop and the css frameworks.
